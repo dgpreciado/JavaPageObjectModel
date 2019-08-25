@@ -42,7 +42,7 @@ public class HomePage extends TestBase {
     @FindBy(linkText = "Calls")
     WebElement callsLink;
 
-    public boolean verifyCorrectUserName(){
+    public boolean verifyUserNameAppears(){
         return usernameLabel.isDisplayed();
     }
     public HomePage(){
