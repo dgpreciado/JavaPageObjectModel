@@ -42,6 +42,9 @@ public class HomePage extends TestBase {
     @FindBy(linkText = "Calls")
     WebElement callsLink;
 
+    public boolean verifyCorrectUserName(){
+        return usernameLabel.isDisplayed();
+    }
     public HomePage(){
         PageFactory.initElements(driver , this);
     }

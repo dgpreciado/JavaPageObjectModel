@@ -1,20 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="POM HompePageTest_ok">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/TasksPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/HomePageTest.java" afterDir="false" />
+    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/DealsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/DealsPage.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/ContactsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/ContactsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/DealsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/DealsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/LoginPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -148,7 +137,7 @@
       <updated>1566666229860</updated>
       <workItem from="1566666239689" duration="11431000" />
       <workItem from="1566681927404" duration="11266000" />
-      <workItem from="1566744312251" duration="11972000" />
+      <workItem from="1566744312251" duration="13469000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
@@ -178,7 +167,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566693504119</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="POM HompePageTest_ok">
+      <created>1566759584490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1566759584490</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -202,6 +198,7 @@
     <MESSAGE value="POM TestBase.java" />
     <MESSAGE value="POM LoginPageTest_ok" />
     <MESSAGE value="POM LoginPageTest_ok1" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM LoginPageTest_ok1" />
+    <MESSAGE value="POM HompePageTest_ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM HompePageTest_ok" />
   </component>
 </project>
