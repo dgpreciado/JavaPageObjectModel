@@ -48,6 +48,7 @@ public class LoginPage extends TestBase {
         return passwordIcon.isDisplayed();
     }
     public HomePage login(String un , String pwd){
+        driver.navigate().to("https://ui.freecrm.com/");
         userEmailAddress.sendKeys(un);
         userPassword.sendKeys(pwd);
         loginBtn.click();
