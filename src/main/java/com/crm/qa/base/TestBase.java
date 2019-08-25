@@ -32,7 +32,7 @@ public class TestBase {
         }
     }
 
-    public static void initalization(){
+    public static void initialization(){
         String browserName = prop.getProperty("browser");
         if(browserName.equals("chrome")){
             System.setProperty("webdriver.chrome.driver","./src/main/resources/chromedriver.exe");

@@ -2,27 +2,33 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/base/TestBase.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/ContactsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/DealsPage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/HomePage.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/geckodriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/LoginPage.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/util/TestUtil.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/base/TestBase.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/DealsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/DealsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/LoginPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/LoginPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/base/TestBase.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/base/TestBase.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/LoginPageTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -57,6 +63,7 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -105,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566666229860</updated>
       <workItem from="1566666239689" duration="11431000" />
-      <workItem from="1566681927404" duration="9691000" />
+      <workItem from="1566681927404" duration="11193000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
@@ -121,7 +128,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566677588944</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="POM LoginPageTest_ok">
+      <created>1566692041429</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566692041429</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -143,6 +157,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="POM Maven setup" />
     <MESSAGE value="POM TestBase.java" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM TestBase.java" />
+    <MESSAGE value="POM LoginPageTest_ok" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM LoginPageTest_ok" />
   </component>
 </project>

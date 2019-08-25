@@ -20,7 +20,7 @@ public class LoginPageTest extends TestBase {
 
     @BeforeMethod
     public void setUp(){
-        initalization();
+        initialization();
         loginPage = new LoginPage();
         driver.navigate().to("https://ui.freecrm.com/");
     }
