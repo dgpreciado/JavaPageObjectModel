@@ -2,14 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/ContactsPageTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/HomePage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/HomePage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/util/TestUtil.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/HomePageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/HomePageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/HomePage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/pages/HomePage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/crm/qa/util/TestUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/crm/qa/util/TestUtil.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/HomePageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/HomePageTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -172,7 +167,8 @@
       <workItem from="1566666239689" duration="11431000" />
       <workItem from="1566681927404" duration="11266000" />
       <workItem from="1566744312251" duration="13527000" />
-      <workItem from="1566767497137" duration="7919000" />
+      <workItem from="1566767497137" duration="8647000" />
+      <workItem from="1567046208803" duration="3292000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
@@ -216,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566761086237</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="POM ContactPageTest_inProg">
+      <created>1566776721538</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1566776721538</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -242,6 +245,7 @@
     <MESSAGE value="POM LoginPageTest_ok1" />
     <MESSAGE value="POM HompePageTest_ok" />
     <MESSAGE value="POM HomePageTest_ok1" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM HomePageTest_ok1" />
+    <MESSAGE value="POM ContactPageTest_inProg" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM ContactPageTest_inProg" />
   </component>
 </project>
