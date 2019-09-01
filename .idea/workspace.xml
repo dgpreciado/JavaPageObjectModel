@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/ContactsPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/crm/qa/pages/ContactsPage.java" afterDir="false" />
-    </list>
+    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -168,7 +164,7 @@
       <workItem from="1566681927404" duration="11266000" />
       <workItem from="1566744312251" duration="13527000" />
       <workItem from="1566767497137" duration="8647000" />
-      <workItem from="1567046208803" duration="3292000" />
+      <workItem from="1567046208803" duration="3351000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
@@ -219,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1566776721538</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="POM ContactPageTest_inProg @1hr 00min">
+      <created>1567051327047</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1567051327047</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,6 +249,7 @@
     <MESSAGE value="POM HompePageTest_ok" />
     <MESSAGE value="POM HomePageTest_ok1" />
     <MESSAGE value="POM ContactPageTest_inProg" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM ContactPageTest_inProg" />
+    <MESSAGE value="POM ContactPageTest_inProg @1hr 00min" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM ContactPageTest_inProg @1hr 00min" />
   </component>
 </project>
