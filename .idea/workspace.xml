@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/resources/testng_ContactPage.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -84,8 +84,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml">
-    <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
+    <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml" type="TestNG" nameIsGenerated="true">
       <module name="JavaPageObjectModel" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng_ContactPage.xml" />
       <option name="TEST_OBJECT" value="SUITE" />
@@ -105,7 +105,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContactsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ContactsPageTest" type="TestNG" singleton="false" nameIsGenerated="true">
       <module name="JavaPageObjectModel" />
       <extension name="coverage">
         <pattern>
@@ -113,9 +113,17 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.crm.qa.testcases.ContactsPageTest" />
+      <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -182,9 +190,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="&lt;default&gt;" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="&lt;default&gt;" type="TestNG" singleton="false" nameIsGenerated="true">
+      <output_file path="$USER_HOME$/Desktop/outputfiles" is_save="true" />
       <module name="JavaPageObjectModel" />
+      <option name="SUITE_NAME" value="" />
       <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="com.crm.qa.testcases (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
       <option name="TEST_OBJECT" value="PACKAGE" />
       <properties />
       <listeners />
@@ -192,10 +224,45 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.crm.qa.testcases" type="TestNG" singleton="false" nameIsGenerated="true">
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.crm.qa.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.crm.qa.testcases" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="wholeProject" />
+      </option>
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" />
+      <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml" />
+      <item itemvalue="TestNG.com.crm.qa.testcases" />
+      <item itemvalue="TestNG.ContactsPageTest" />
+      <item itemvalue="TestNG.HomePageTest" />
+      <item itemvalue="TestNG.HomePageTest.verifyContactsLinkTest" />
+      <item itemvalue="TestNG.&lt;default&gt;" />
+      <item itemvalue="TestNG.com.crm.qa.testcases (1)" />
+      <item itemvalue="TestNG.LoginPageTest" />
+    </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml" />
-        <item itemvalue="TestNG.ContactsPageTest" />
+        <item itemvalue="TestNG.com.crm.qa.testcases (1)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.LoginPageTest" />
       </list>
@@ -216,7 +283,7 @@
       <workItem from="1566744312251" duration="13527000" />
       <workItem from="1566767497137" duration="8647000" />
       <workItem from="1567046208803" duration="3351000" />
-      <workItem from="1567894092056" duration="14047000" />
+      <workItem from="1567894092056" duration="14734000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
@@ -316,7 +383,21 @@
       <option name="project" value="LOCAL" />
       <updated>1567915096642</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="POM TESTNG.XML added @1hr 20min">
+      <created>1567916128376</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1567916128376</updated>
+    </task>
+    <task id="LOCAL-00016" summary="POM TESTNG.XML added @1hr 20min">
+      <created>1567916171749</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1567916171749</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
