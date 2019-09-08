@@ -1,0 +1,8 @@
+#note = you must add a "File" in this config folder, named "config.properties" with global variables below
+url = https://ui.freecrm.com
+userEmail = naveenk@gmail.com
+password = test@123
+
+fname = naveen
+lname = kaveen
+browser = chrome
