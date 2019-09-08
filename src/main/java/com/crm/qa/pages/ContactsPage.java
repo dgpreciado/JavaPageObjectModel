@@ -28,10 +28,13 @@ public class ContactsPage extends TestBase {
         unCheckedkbox.click();
         return checkedCheckbox.isDisplayed();
     }
-    public void selectContactsByName(String name){
-        /* attempted to check a checkbox by targeting the customer name afterwards.
-        driver.findElement(By.xpath("//a[text()='"+name+"']//parent::td[@class='datalistrow']"
-                + "//preceding-sibling::td[@class='datalistrow']//input[@name='contact_id']")).click();
-         */
+    public boolean findContactByName(String name){
+        return driver.findElement(By.xpath("//td[contains(text(),"+ name +")]")).isDisplayed();
+    }
+    public boolean selectContactsByName(String name){
+        driver.findElement(By.xpath("//td[contains(text(),"+ name +
+                ")]//parent::tr//preceding-sibling::td/div")).click();
+        return driver.findElement(By.xpath("//td[contains(text(),"+ name +
+                ")]//parent::tr//preceding-sibling::td/div/input")).isSelected();
     }
 }
