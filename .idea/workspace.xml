@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
+    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="POM TESTNG.XML added @1hr 20min">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/testng.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/ContactsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/crm/qa/testcases/ContactsPageTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/ContactsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/crm/qa/testcases/ContactsPageTest.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RunDashboard">
@@ -76,7 +79,17 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.ContactsPageTest">
+  <component name="RunManager" selected="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml">
+    <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="JavaPageObjectModel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ContactsPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPageObjectModel" />
       <extension name="coverage">
@@ -187,7 +200,7 @@
       <workItem from="1566744312251" duration="13527000" />
       <workItem from="1566767497137" duration="8647000" />
       <workItem from="1567046208803" duration="3351000" />
-      <workItem from="1567894092056" duration="9285000" />
+      <workItem from="1567894092056" duration="12933000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
@@ -266,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567908566848</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="POM ContactPageTest_inProg  @1hr 12min">
+      <created>1567910409312</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1567910409312</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +315,7 @@
     <MESSAGE value="POM ContactPageTest_inProg" />
     <MESSAGE value="POM ContactPageTest_inProg @1hr 00min" />
     <MESSAGE value="POM ContactPageTest_inProg &gt; got the xpath for the checkbox working @1hr 00min" />
-    <option name="LAST_COMMIT_MESSAGE" value="POM ContactPageTest_inProg &gt; got the xpath for the checkbox working @1hr 00min" />
+    <MESSAGE value="POM ContactPageTest_inProg  @1hr 12min" />
+    <option name="LAST_COMMIT_MESSAGE" value="POM ContactPageTest_inProg  @1hr 12min" />
   </component>
 </project>

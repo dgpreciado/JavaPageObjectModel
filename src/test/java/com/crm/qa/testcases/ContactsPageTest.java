@@ -31,16 +31,16 @@ public class ContactsPageTest extends TestBase {
     }
     @Test
     public void contactLabel(){
-        Assert.assertEquals(contactsPage.verifyContactHeaderText(),"Contacts");
+        Assert.assertEquals( contactsPage.verifyContactHeaderText(),"Contacts");
     }
     @Test
     public void find_a_contact(){
-        Assert.assertTrue(contactsPage.findContactByName("fname"));
+        Assert.assertTrue( contactsPage.findContactByName("fname") );
     }
     @Test
     public void select_a_contact() throws InterruptedException {
-        contactsPage.selectContactsByName("fname");
-        Thread.sleep(5000);
+        Assert.assertTrue( contactsPage.selectContactsByName("fname") );
+
     }
     @AfterMethod
     public void tearDown(){
