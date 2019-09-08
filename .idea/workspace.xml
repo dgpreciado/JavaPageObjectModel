@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,8 +62,8 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
   </component>
   <component name="RecentsManager">
@@ -85,17 +83,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml">
-    <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/bin/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="JavaPageObjectModel" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/bin/testng.xml" />
-      <option name="TEST_OBJECT" value="SUITE" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml" type="TestNG" nameIsGenerated="true">
       <module name="JavaPageObjectModel" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng_ContactPage.xml" />
@@ -270,11 +258,9 @@
       <item itemvalue="TestNG.&lt;default&gt;" />
       <item itemvalue="TestNG.com.crm.qa.testcases (1)" />
       <item itemvalue="TestNG.LoginPageTest" />
-      <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/bin/testng.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/bin/testng.xml" />
         <item itemvalue="TestNG.com.crm.qa.testcases (1)" />
         <item itemvalue="TestNG.&lt;default&gt;" />
         <item itemvalue="TestNG.LoginPageTest" />
@@ -410,14 +396,7 @@
       <option name="project" value="LOCAL" />
       <updated>1567916171749</updated>
     </task>
-    <task id="LOCAL-00017" summary="Revert &quot;POM TESTNG.XML added @1hr 20min&quot;&#10;&#10;This reverts commit 83ed72606f4a27291585236a647d66eefcdd98bb.">
-      <created>1567920704514</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1567920704514</updated>
-    </task>
-    <option name="localTasksCounter" value="18" />
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -449,7 +428,6 @@
     <MESSAGE value="POM ContactPageTest_inProg &gt; got the xpath for the checkbox working @1hr 00min" />
     <MESSAGE value="POM ContactPageTest_inProg  @1hr 12min" />
     <MESSAGE value="POM TESTNG.XML added @1hr 20min" />
-    <MESSAGE value="Revert &quot;POM TESTNG.XML added @1hr 20min&quot;&#10;&#10;This reverts commit 83ed72606f4a27291585236a647d66eefcdd98bb." />
-    <option name="LAST_COMMIT_MESSAGE" value="Revert &quot;POM TESTNG.XML added @1hr 20min&quot;&#10;&#10;This reverts commit 83ed72606f4a27291585236a647d66eefcdd98bb." />
+    <option name="LAST_COMMIT_MESSAGE" value="POM TESTNG.XML added @1hr 20min" />
   </component>
 </project>
