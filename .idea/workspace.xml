@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dc3ccb46-25fb-4d43-9b6e-711633bc76fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -83,7 +84,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml">
+  <component name="RunManager" selected="TestNG.&lt;default&gt;">
     <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng_ContactPage.xml" type="TestNG" nameIsGenerated="true">
       <module name="JavaPageObjectModel" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng_ContactPage.xml" />
@@ -283,7 +284,6 @@
       <workItem from="1566767497137" duration="8647000" />
       <workItem from="1567046208803" duration="3351000" />
       <workItem from="1567894092056" duration="14734000" />
-      <workItem from="1567921866691" duration="254000" />
     </task>
     <task id="LOCAL-00001" summary="POM Maven setup">
       <created>1566671178604</created>
