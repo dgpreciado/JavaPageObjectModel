@@ -1,8 +1,0 @@
-note = you must add a "File" in this config folder, named "config.properties" with global variables below
-url = https://www.freecrm.com
-username = naveenk
-password = test@123
-companyName = myself
-fname = naveen
-lname = kaveen
-browser = chrome
