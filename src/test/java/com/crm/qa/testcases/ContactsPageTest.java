@@ -30,6 +30,10 @@ public class ContactsPageTest extends TestBase {
         homePage.clickOnContactsLink();
     }
     @Test
+    public void contactLabel(){
+        Assert.assertEquals(contactsPage.verifyContactHeaderText(),"Contacts");
+    }
+    @Test
     public void find_a_contact(){
         Assert.assertTrue(contactsPage.findContactByName("fname"));
     }
