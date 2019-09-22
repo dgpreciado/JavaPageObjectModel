@@ -16,6 +16,8 @@ public class ContactsPage extends TestBase {
     WebElement unCheckedbox;
     @FindBy(css = ".checked > label")
     WebElement checkedCheckbox;
+    @FindBy(css = "a[href='/contacts/new']")
+    WebElement newButton;
 
     public ContactsPage(){
         PageFactory.initElements(driver , this);
@@ -36,5 +38,8 @@ public class ContactsPage extends TestBase {
                 ")]//parent::tr//preceding-sibling::td/div")).click();
         return driver.findElement(By.xpath("//td[contains(text(),"+ name +
                 ")]//parent::tr//preceding-sibling::td/div/input")).isSelected();
+    }
+    public void clickNewButton(){
+        newButton.click();
     }
 }

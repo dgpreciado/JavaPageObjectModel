@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsPage.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +44,15 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\java\com\base" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\java\com\util" />
       <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\test\java\com\testcases" />
       <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\java\com\pages" />
       <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\java\com\config" />
       <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\resources" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\java\com\base" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -166,8 +165,16 @@
       <workItem from="1567975005351" duration="2009000" />
       <workItem from="1567977416997" duration="310000" />
       <workItem from="1567977759014" duration="200000" />
-      <workItem from="1569181812142" duration="2076000" />
+      <workItem from="1569181812142" duration="4227000" />
     </task>
+    <task id="LOCAL-00001" summary="Testoutputfolder">
+      <created>1569185110949</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1569185110949</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -185,5 +192,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Testoutputfolder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Testoutputfolder" />
   </component>
 </project>
