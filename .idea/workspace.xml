@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="" />
+    <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +42,7 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -64,7 +68,28 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.com.testcases">
+  <component name="RunManager" selected="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml">
+    <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" type="TestNG" nameIsGenerated="true">
+      <module name="JavaPageObjectModel" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="LoginPageTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="JavaPageObjectModel1" />
       <extension name="coverage">
@@ -76,6 +101,24 @@
       <option name="PACKAGE_NAME" value="com.testcases" />
       <option name="MAIN_CLASS_NAME" value="com.testcases.LoginPageTest" />
       <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="SUITE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
       <properties />
       <listeners />
       <method v="2">
@@ -98,6 +141,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <list>
+      <item itemvalue="TestNG.com.testcases" />
+      <item itemvalue="TestNG.LoginPageTest" />
+      <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.com.testcases" />
@@ -118,6 +166,7 @@
       <workItem from="1567975005351" duration="2009000" />
       <workItem from="1567977416997" duration="310000" />
       <workItem from="1567977759014" duration="200000" />
+      <workItem from="1569181812142" duration="2076000" />
     </task>
     <servers />
   </component>
