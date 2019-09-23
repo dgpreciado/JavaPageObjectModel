@@ -3,8 +3,10 @@ package com.pages;
 import com.base.TestBase;
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
+import org.openqa.selenium.interactions.Actions;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
+import org.openqa.selenium.support.ui.Select;
 
 public class ContactsPage extends TestBase {
 
@@ -40,6 +42,8 @@ public class ContactsPage extends TestBase {
                 ")]//parent::tr//preceding-sibling::td/div/input")).isSelected();
     }
     public void clickNewButton(){
-        newButton.click();
+        Actions action = new Actions(driver);
+        action.moveToElement(newButton).build().perform();
     }
+
 }

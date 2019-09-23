@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsPage.java" afterDir="false" />
     </list>
@@ -10,6 +12,13 @@
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -141,9 +150,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" />
       <item itemvalue="TestNG.com.testcases" />
       <item itemvalue="TestNG.LoginPageTest" />
-      <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" />
     </list>
     <recent_temporary>
       <list>
@@ -165,7 +174,8 @@
       <workItem from="1567975005351" duration="2009000" />
       <workItem from="1567977416997" duration="310000" />
       <workItem from="1567977759014" duration="200000" />
-      <workItem from="1569181812142" duration="4227000" />
+      <workItem from="1569181812142" duration="4283000" />
+      <workItem from="1569194030742" duration="5291000" />
     </task>
     <task id="LOCAL-00001" summary="Testoutputfolder">
       <created>1569185110949</created>
@@ -174,7 +184,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569185110949</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="part4datadriven">
+      <created>1569187741245</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1569187741245</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,6 +212,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testoutputfolder" />
-    <option name="LAST_COMMIT_MESSAGE" value="Testoutputfolder" />
+    <MESSAGE value="part4datadriven" />
+    <option name="LAST_COMMIT_MESSAGE" value="part4datadriven" />
   </component>
 </project>
