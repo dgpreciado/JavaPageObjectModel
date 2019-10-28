@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/ContactsPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/chromedriver.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/testcases/ContactsPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/testcases/ContactsPageTest.java" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +51,9 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
     <property name="settings.editor.selected.configurable" value="configurable.group.build" />
   </component>
@@ -76,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml">
+  <component name="RunManager" selected="TestNG.ContactsPageTest.validateNewContact">
     <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" type="TestNG" nameIsGenerated="true">
       <module name="JavaPageObjectModel" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/src/main/resources/testng.xml" />
@@ -85,6 +90,87 @@
       <option name="METHOD_NAME" value="" />
       <option name="GROUP_NAME" value="" />
       <option name="TEST_OBJECT" value="SUITE" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactsPageTest.contactLabel" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.ContactsPageTest" />
+      <option name="METHOD_NAME" value="contactLabel" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactsPageTest.validateNewContact (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.ContactsPageTest" />
+      <option name="METHOD_NAME" value="validateNewContact" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="PARAMETERS" value="0" />
+      <option name="OUTPUT_DIRECTORY" value="" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="true" />
+      <option name="PROPERTIES_FILE" value="" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactsPageTest.validateNewContact" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="JavaPageObjectModel" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testcases.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SUITE_NAME" value="" />
+      <option name="PACKAGE_NAME" value="com.testcases" />
+      <option name="MAIN_CLASS_NAME" value="com.testcases.ContactsPageTest" />
+      <option name="METHOD_NAME" value="validateNewContact" />
+      <option name="GROUP_NAME" value="" />
+      <option name="TEST_OBJECT" value="METHOD" />
       <option name="PARAMETERS" value="" />
       <option name="OUTPUT_DIRECTORY" value="" />
       <option name="TEST_SEARCH_SCOPE">
@@ -153,9 +239,15 @@
       <item itemvalue="TestNG.C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" />
       <item itemvalue="TestNG.com.testcases" />
       <item itemvalue="TestNG.LoginPageTest" />
+      <item itemvalue="TestNG.ContactsPageTest.validateNewContact" />
+      <item itemvalue="TestNG.ContactsPageTest.contactLabel" />
+      <item itemvalue="TestNG.ContactsPageTest.validateNewContact (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.ContactsPageTest.validateNewContact" />
+        <item itemvalue="TestNG.ContactsPageTest.validateNewContact (1)" />
+        <item itemvalue="TestNG.ContactsPageTest.contactLabel" />
         <item itemvalue="TestNG.com.testcases" />
         <item itemvalue="TestNG.LoginPageTest" />
       </list>
@@ -175,7 +267,10 @@
       <workItem from="1567977416997" duration="310000" />
       <workItem from="1567977759014" duration="200000" />
       <workItem from="1569181812142" duration="4283000" />
-      <workItem from="1569194030742" duration="5291000" />
+      <workItem from="1569194030742" duration="5439000" />
+      <workItem from="1570071107414" duration="931000" />
+      <workItem from="1572220024293" duration="78000" />
+      <workItem from="1572220116338" duration="8330000" />
     </task>
     <task id="LOCAL-00001" summary="Testoutputfolder">
       <created>1569185110949</created>
@@ -191,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1569187741245</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="part4 datadriven - ContactNewContactPage Setup">
+      <created>1569200348097</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1569200348097</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -213,6 +315,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Testoutputfolder" />
     <MESSAGE value="part4datadriven" />
-    <option name="LAST_COMMIT_MESSAGE" value="part4datadriven" />
+    <MESSAGE value="part4 datadriven - ContactNewContactPage Setup" />
+    <option name="LAST_COMMIT_MESSAGE" value="part4 datadriven - ContactNewContactPage Setup" />
   </component>
 </project>

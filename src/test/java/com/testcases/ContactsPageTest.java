@@ -1,6 +1,7 @@
 package com.testcases;
 
 import com.base.TestBase;
+import com.pages.ContactsNewContact;
 import com.pages.ContactsPage;
 import com.pages.HomePage;
 import com.pages.LoginPage;
@@ -16,6 +17,7 @@ public class ContactsPageTest extends TestBase {
     HomePage homePage;
     ContactsPage contactsPage;
     TestUtil testUtil;
+    ContactsNewContact contactsNewContact;
 
     public ContactsPageTest(){
         super();
@@ -28,6 +30,7 @@ public class ContactsPageTest extends TestBase {
         contactsPage = new ContactsPage();/*might not be needed*/
         homePage = loginPage.login(prop.getProperty("userEmail") , prop.getProperty("password"));
         homePage.clickOnContactsLink();
+        contactsNewContact = new ContactsNewContact();
     }
     @Test
     public void contactLabel(){
@@ -40,7 +43,11 @@ public class ContactsPageTest extends TestBase {
     @Test
     public void select_a_contact() {
         Assert.assertTrue( contactsPage.selectContactsByName("fname") );
-
+    }
+    @Test
+    public void validateNewContact() throws InterruptedException {
+        contactsPage.clickNewButton();
+        contactsNewContact.createNewContact("ftest1", "ltest1", "ctest1");
     }
     @AfterMethod
     public void tearDown(){

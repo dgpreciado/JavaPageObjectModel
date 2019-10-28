@@ -42,8 +42,8 @@ public class ContactsPage extends TestBase {
                 ")]//parent::tr//preceding-sibling::td/div/input")).isSelected();
     }
     public void clickNewButton(){
-        Actions action = new Actions(driver);
-        action.moveToElement(newButton).build().perform();
+        newButton.click();
+//        Actions action = new Actions(driver);
+//        action.moveToElement(newButton).build().perform();
     }
-
 }
