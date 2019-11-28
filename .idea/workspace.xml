@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,6 +276,7 @@
       <workItem from="1573839628932" duration="1837000" />
       <workItem from="1573867060136" duration="615000" />
       <workItem from="1574981239743" duration="24000" />
+      <workItem from="1574981283493" duration="246000" />
     </task>
     <task id="LOCAL-00001" summary="Testoutputfolder">
       <created>1569185110949</created>
@@ -320,7 +320,21 @@
       <option name="project" value="LOCAL" />
       <updated>1573837675932</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="part4 data driven - POM pt 4 23:03">
+      <created>1574981448164</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1574981448164</updated>
+    </task>
+    <task id="LOCAL-00008" summary="part4 data driven - POM pt 4 23:03">
+      <created>1574981499936</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1574981499936</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -352,6 +366,14 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="960" y="427" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1574981251862" />
+    <state x="870" y="291" key="CommitChangelistDialog2" timestamp="1574981517625">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="870" y="291" key="CommitChangelistDialog2/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1574981517625" />
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2" timestamp="1574981503070">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="872" y="432" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1574981503070" />
     <state x="976" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1574981300090">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
