@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d122bb73-6c1f-48f4-96d1-a631e3739121" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/chromedriver.exe" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/chromedriver.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/pages/ContactsPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/pages/ContactsPage.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/testcases/ContactsPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/testcases/ContactsPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/pages/ContactsNewContact.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -38,6 +34,10 @@
     </option>
   </component>
   <component name="ProjectId" id="1QZPAPiz4j9V5yvGdbQ0FglYzEr" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
@@ -67,18 +67,6 @@
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Gabe\IdeaProjects\JavaPageObjectModel1\src\main\java\com\base" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="TestNG.ContactsPageTest.validateNewContact">
     <configuration name="C:/Users/Gabe/IdeaProjects/JavaPageObjectModel/src/main/resources/testng.xml" type="TestNG" nameIsGenerated="true">
@@ -252,6 +240,18 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -273,7 +273,10 @@
       <workItem from="1572658264365" duration="173000" />
       <workItem from="1572674257833" duration="11000" />
       <workItem from="1572849075416" duration="461000" />
-      <workItem from="1573836307382" duration="620000" />
+      <workItem from="1573836307382" duration="761000" />
+      <workItem from="1573839628932" duration="1837000" />
+      <workItem from="1573867060136" duration="615000" />
+      <workItem from="1574981239743" duration="24000" />
     </task>
     <task id="LOCAL-00001" summary="Testoutputfolder">
       <created>1569185110949</created>
@@ -303,7 +306,21 @@
       <option name="project" value="LOCAL" />
       <updated>1572233767440</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="part4 data driven - POM pt 4 23:03 11/15/2019">
+      <created>1573837644439</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1573837644439</updated>
+    </task>
+    <task id="LOCAL-00006" summary="part4 data driven - POM pt 4 23:03">
+      <created>1573837675932</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1573837675932</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -326,7 +343,18 @@
     <MESSAGE value="Testoutputfolder" />
     <MESSAGE value="part4datadriven" />
     <MESSAGE value="part4 datadriven - ContactNewContactPage Setup" />
+    <MESSAGE value="part4 data driven - POM pt 4 23:03 11/15/2019" />
     <MESSAGE value="part4 data driven - POM pt 4 23:03" />
     <option name="LAST_COMMIT_MESSAGE" value="part4 data driven - POM pt 4 23:03" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="960" y="427" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1574981251862">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="960" y="427" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1574981251862" />
+    <state x="976" y="523" key="com.intellij.ide.util.TipDialog" timestamp="1574981300090">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="976" y="523" key="com.intellij.ide.util.TipDialog/0.0.2560.1400/-2560.0.2560.1400@0.0.2560.1400" timestamp="1574981300090" />
   </component>
 </project>

@@ -48,6 +48,6 @@ public class ContactsNewContact extends TestBase {
         //send to company field: document.getElementsByName("company")[0].getElementsByTagName("input")[0].value  = "test";
         System.out.println("company done ");
         saveButton.click();
-        Thread.sleep(6000);
+        //Thread.sleep(6000);
     }
 }
